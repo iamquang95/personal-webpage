@@ -1,0 +1,13 @@
+.home-background {
+    background-color: #dddddd;
+    min-height: 1024px;
+}
+
+.home-body-wrapper {
+    background-color: white;
+    min-height: 1024px;
+}
+
+.home-basic-information {
+    margin-top: 2em;
+}
