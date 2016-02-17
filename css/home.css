@@ -14,8 +14,8 @@
     text-align: center;
 }
 .header-short-introduce {
-    font-size: 18px;
-    margin-top: -8em;
+    font-size: 16px;
+    margin-top: -9em;
     text-align: center;
 }
 /* body */
@@ -41,7 +41,6 @@
     height: auto;
 }
 .aboutme-ul {
-    margin-top: 5em;
     display: block;
     list-style-type: none;
     font-size: 16px;
@@ -50,5 +49,44 @@
     letter-spacing: 1px;
     font-weight: 150;
 }
+.detail-information {
+}
+.detail-information h3 {
+    font-weight: 650;
+    letter-spacing: 1px;
+}
+.detail-information li {
+    font-size: 15px;
+}
 /* footer */
-
+.web-footer {
+    background-color: #dfdfdf;
+    padding: 40px 0;
+}
+.footer-container {
+    padding-right: 18em;
+    padding-left: 18em;
+    margin-right: auto;
+    margin-left: auto;
+    width: 60em;
+}
+.footer-button-container {
+    margin-left: 5em;
+}
+.footer-button-container a {
+    color: black;
+    margin-left: 1em;
+}
+.footer-button-container a:visited {
+    text-decoration: none;
+}
+.footer-button-container a:active {
+    text-decoration: none;
+}
+.footer-button-container a:link {
+    text-decoration: none;
+}
+.footer-button-container a:hover {
+    text-decoration: none;
+    color: #fb7200;
+}
