@@ -1,13 +1,54 @@
-.home-background {
-    background-color: #dddddd;
-    min-height: 1024px;
+/* Header */
+.web-header {
+    background-color: #dfdfdf;
+    width: 100%;
+    height: 20em;
 }
-
-.home-body-wrapper {
+.header-text-container {
+    line-height: 15em;
+}
+.header-greeting {
+    font-weight: 900;
+    font-size: 70px;
+    letter-spacing: 4px;
+    text-align: center;
+}
+.header-short-introduce {
+    font-size: 18px;
+    margin-top: -8em;
+    text-align: center;
+}
+/* body */
+.web-body {
+    padding: 50px 0;
     background-color: white;
-    min-height: 1024px;
 }
+.body-container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 60em;
+}
+#about-me {
+    font-size: 35px;
+    font-weight: 900;
+    margin-bottom: 0.5em;
+    margin-left: 0.5em;
+}
+#avatar {
+    width: 300px;
+    height: auto;
+}
+.aboutme-ul {
+    margin-top: 5em;
+    display: block;
+    list-style-type: none;
+    font-size: 16px;
+}
+.aboutme-ul b {
+    letter-spacing: 1px;
+    font-weight: 150;
+}
+/* footer */
 
-.home-basic-information {
-    margin-top: 2em;
-}
