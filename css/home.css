@@ -34,8 +34,8 @@
     margin-left: auto;
     width: 60em;
 }
-#about-me {
-    font-size: 35px;
+.text-heading {
+    font-size: 30px;
     font-weight: 900;
     margin-bottom: 0.5em;
     margin-left: 0.5em;
@@ -62,6 +62,16 @@
 .detail-information li {
     font-size: 15px;
 }
+.education-tab {
+    margin-left: 2em;
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: 5;
+}
+.education-tab th {
+    width: 10em;
+    letter-spacing: 1px;
+}
 /* footer */
 .web-footer {
     background-color: #dfdfdf;
@@ -76,6 +86,7 @@
     width: 60em;
 }
 .footer-container p {
+    margin-left: 2em;
 }
 .footer-button-container {
     margin-left: 5em;
