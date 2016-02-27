@@ -72,6 +72,10 @@
     width: 10em;
     letter-spacing: 1px;
 }
+.learn-js-progress img {
+    width: 65em;
+    height: auto;
+}
 /* footer */
 .web-footer {
     background-color: #dfdfdf;
